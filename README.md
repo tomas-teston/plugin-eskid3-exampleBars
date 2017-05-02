@@ -14,7 +14,7 @@ En este ejemplo se utilizan los datos de ejemplo proporcionados por Kibana en su
 
 ## Cómo empezar
 
-Para poder probar este plugin en Kibana hace falta tener todo el entorno configurado: [Entorno de desarrollo](https://github.com/tomas-teston/plugin-eskid3/wiki/Entorno-de-desarrollo).
+Para poder probar este plugin en Kibana hace falta tener todo el entorno configurado: [Cómo confrigurar el entorno de desarrollo](https://github.com/tomas-teston/plugin-eskid3/wiki/Entorno-de-desarrollo).
 
 
 ## Comandos
