@@ -1,6 +1,6 @@
 # Plugin ESKID3 - Example Bars
 
-> Visualizacin de barras para un plugin en Kibana.
+> Visualización de barras para un plugin en Kibana.
 
 ---
 
@@ -8,18 +8,18 @@
 
 [Kibana](https://www.elastic.co/products/kibana) es una potente aplicación web que nos permite explotar información almacenada en una base de datos [Elasticsearch](https://www.elastic.co/webinars/getting-started-elasticsearch?elektra=home&storm=banner) de una forrma muy visual. Uno de los problemas que surgen con Kibana es la escased de tipos de visualización que nos ofrece. Para solucionar este problema se pueden crear plugins de visualización para Kibana utilizando librerías de visualizaciones como [D3.js](https://d3js.org/). 
 
-Todos los detalles de implementación para crear un plugin y algunos otros aspectos importantes se encuentran descritos en la siguiente dirección: [Wiki](https://github.com/tomas-teston/plugin-eskid3/wiki)
+Todos los detalles de implementación para crear un plugin y algunos otros aspectos importantes se encuentran descritos en la siguiente dirección: [Wiki](https://github.com/tomas-teston/plugin-eskid3/wiki).
 
-## Como empezar
+En este ejemplo se utilizan los datos de ejemplo proporcionados por Kibana en su documentación oficial (Poner link a datos). 
 
-Existen varias formas para comenzar a crear un plugin básico para Kibana:
+## Cómo empezar
 
-- Clonar el proyecto y seguir los pasos indicados en la [wiki](https://github.com/tomas-teston/plugin-eskid3/wiki).
-- Mediante la herramienta [Yeoman](https://github.com/tomas-teston/plugin-eskid3/wiki/Estructura-b%C3%A1sica-de-un-plugin#yeoman-generator).
+Para poder probar este plugin en Kibana hace falta tener todo el entorno configurado: [Entorno de desarrollo](https://github.com/tomas-teston/plugin-eskid3/wiki/Entorno-de-desarrollo).
+
 
 ## Comandos
 
-Una vez está configurado el plugin puede situarse en la carpeta donde se encuentra el plugin y realizar alguna de las siguientes acciones:
+Una vez está configurado el entorno puede situarse en la carpeta donde se encuentra el plugin y realizar alguna de las siguientes acciones:
 
   - Lanzar Kibana incluyendo el pluginStart kibana: `npm start`
 
