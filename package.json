@@ -1,5 +1,5 @@
 {
-  "name": "plugin-eskid3",
+  "name": "plugin-eskid3-exampleBars",
   "version": "6.0.0",
   "description": "An awesome Kibana plugin",
   "main": "index.js",
