@@ -9,7 +9,7 @@
 
 Este proyecto es un ejemplo de plugin de visualización para Kibana utilizando [D3.js](https://d3js.org/) como librera de visualización. Todo este proceso sigue el procedimiento descrito en en el proyecto [plugin-eskid3](https://github.com/tomas-teston/plugin-eskid3). 
 
-Todos los detalles de implementación para crear un plugin y algunos otros aspectos importantes previos a poder crear este ejemplo se encuentran descritos en la siguiente dirección: [Wiki](https://github.com/tomas-teston/plugin-eskid3/wiki).
+Los detalles de implementación para crear un plugin y algunos otros aspectos importantes previos a poder crear este ejemplo se encuentran descritos en la siguiente dirección: [Wiki](https://github.com/tomas-teston/plugin-eskid3/wiki).
 
 En este ejemplo se utilizan los datos de ejemplo proporcionados por Kibana en su [documentación oficial](https://download.elastic.co/demos/kibana/gettingstarted/shakespeare.json). 
 
